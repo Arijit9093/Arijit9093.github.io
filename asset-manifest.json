@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/arijit-portfolio/static/css/main.cb21824a.css",
-    "main.js": "/arijit-portfolio/static/js/main.09d116db.js",
-    "static/media/Me.jpeg": "/arijit-portfolio/static/media/Me.43ce2e4ae27ac2a98e79.jpeg",
-    "static/media/project3.png": "/arijit-portfolio/static/media/project3.bee47a1970bf58433e9d.png",
-    "static/media/certificate5.png": "/arijit-portfolio/static/media/certificate5.499a4651d38f57236fe4.png",
-    "static/media/internship.png": "/arijit-portfolio/static/media/internship.d70bf6f4c8d94159aa05.png",
-    "static/media/project2.png": "/arijit-portfolio/static/media/project2.74db292a5870211b51b3.png",
-    "static/media/certificate4.png": "/arijit-portfolio/static/media/certificate4.e8000777b3414eef450b.png",
-    "static/media/certificate1.png": "/arijit-portfolio/static/media/certificate1.bfc67271eb15fb25601d.png",
-    "static/media/certificate3.png": "/arijit-portfolio/static/media/certificate3.e939b41551de9ef2c16a.png",
-    "static/media/certificate2.png": "/arijit-portfolio/static/media/certificate2.70a27d77975385c6238b.png",
-    "static/media/about_me.jpeg": "/arijit-portfolio/static/media/about_me.43388bdbcd5b419c2c32.jpeg",
-    "static/media/Arijits_CV.pdf": "/arijit-portfolio/static/media/Arijits_CV.0d1a817239159a6b01b0.pdf",
-    "static/media/project1.png": "/arijit-portfolio/static/media/project1.0d9bc4a52f7599ed6701.png",
-    "index.html": "/arijit-portfolio/index.html",
-    "main.cb21824a.css.map": "/arijit-portfolio/static/css/main.cb21824a.css.map",
-    "main.09d116db.js.map": "/arijit-portfolio/static/js/main.09d116db.js.map"
+    "main.css": "/static/css/main.cb21824a.css",
+    "main.js": "/static/js/main.601f2946.js",
+    "static/media/Me.jpeg": "/static/media/Me.43ce2e4ae27ac2a98e79.jpeg",
+    "static/media/project3.png": "/static/media/project3.bee47a1970bf58433e9d.png",
+    "static/media/certificate5.png": "/static/media/certificate5.499a4651d38f57236fe4.png",
+    "static/media/internship.png": "/static/media/internship.d70bf6f4c8d94159aa05.png",
+    "static/media/project2.png": "/static/media/project2.74db292a5870211b51b3.png",
+    "static/media/certificate4.png": "/static/media/certificate4.e8000777b3414eef450b.png",
+    "static/media/certificate1.png": "/static/media/certificate1.bfc67271eb15fb25601d.png",
+    "static/media/certificate3.png": "/static/media/certificate3.e939b41551de9ef2c16a.png",
+    "static/media/certificate2.png": "/static/media/certificate2.70a27d77975385c6238b.png",
+    "static/media/about_me.jpeg": "/static/media/about_me.43388bdbcd5b419c2c32.jpeg",
+    "static/media/Arijits_CV.pdf": "/static/media/Arijits_CV.0d1a817239159a6b01b0.pdf",
+    "static/media/project1.png": "/static/media/project1.0d9bc4a52f7599ed6701.png",
+    "index.html": "/index.html",
+    "main.cb21824a.css.map": "/static/css/main.cb21824a.css.map",
+    "main.601f2946.js.map": "/static/js/main.601f2946.js.map"
   },
   "entrypoints": [
     "static/css/main.cb21824a.css",
-    "static/js/main.09d116db.js"
+    "static/js/main.601f2946.js"
   ]
 }
