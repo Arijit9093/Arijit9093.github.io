@@ -1,0 +1,28 @@
+.services__container{
+    display: grid;
+    gap: 2.5rem;
+}
+.services__item-cta{
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.services__item-image{
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+.services__item{
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+.services__item:hover{
+    border-color: var(--color-primary-variant);
+    background: transparent;
+}
+.internship_title{
+    margin-top: 1rem;
+}
