@@ -19,7 +19,7 @@ const Services = () => {
           <h3 className='internship_title'>Internship at Celebrare Technology Pvt Ltd.</h3>
           <div className='services__item-cta'>
           {/* <a href='https://github.com' className='btn'>Github</a> */}
-          <a href='https://celebrare.in/share.html' className='btn btn-primary'>The webpage</a>
+          <a href='https://celebrare.in/share.html' className='btn btn-primary' target="_blank">The webpage</a>
           </div>
         </article>
         

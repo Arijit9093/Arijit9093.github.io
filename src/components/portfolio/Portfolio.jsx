@@ -21,7 +21,7 @@ const Portfolio = () => {
           <h3>Chatting Application</h3>
           <div className='portfolio__item-cta'>
           {/* <a href='https://github.com' className='btn'>Github</a> */}
-          <a href='https://arijits-chatapp.herokuapp.com/' className='btn btn-primary'>Live Demo</a>
+          <a href='https://arijits-chatapp.herokuapp.com/' className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
         </LightSpeed>
@@ -35,7 +35,7 @@ const Portfolio = () => {
           <h3>Covid-19 tracker</h3>
           <div className='portfolio__item-cta'>
           {/* <a href='https://github.com' className='btn'>Github</a> */}
-          <a href='http://webproarijit.herokuapp.com/' className='btn btn-primary'>Live Demo</a>
+          <a href='http://webproarijit.herokuapp.com/' className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
         </LightSpeed>
@@ -49,7 +49,7 @@ const Portfolio = () => {
           <h3>E-commerce website</h3>
           <div className='portfolio__item-cta'>
           {/* <a href='https://github.com' className='btn'>Github</a> */}
-          <a href='http://rishavcollec.000webhostapp.com/' className='btn btn-primary'>Live Demo</a>
+          <a href='http://rishavcollec.000webhostapp.com/' className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
         </LightSpeed>
